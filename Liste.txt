@@ -3,3 +3,5 @@ TOP 3 : CPU Intel 13th génération
 i9 13900k
 i7 13700k
 i5 13600k
+i5 13500
+i5 13400
