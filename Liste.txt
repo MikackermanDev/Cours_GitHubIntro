@@ -5,3 +5,8 @@ i7 13700k
 i5 13600k
 i5 13500
 i5 13400
+
+CPU AMD Series Zen 4
+r9 7950x
+r9 7900x
+r7 7700x
