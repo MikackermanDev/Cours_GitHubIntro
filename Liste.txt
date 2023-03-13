@@ -1,4 +1,4 @@
-TOP 3 : CPU Intel 13th génération
+CPU Intel 13th génération
 
 i9 13900k
 i7 13700k
@@ -7,6 +7,6 @@ i5 13500
 i5 13400
 
 CPU AMD Series Zen 4
-r9 7950x
-r9 7900x
-r7 7700x
+r9 7950x / r9 7950x3D
+r9 7900x / r9 7900x3D
+r7 7700x / r7 7700x3D
